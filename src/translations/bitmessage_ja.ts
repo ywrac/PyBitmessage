@@ -748,7 +748,7 @@ It is important that you back up this file. Would you like to open the file now?
     <message>
         <location filename="../bitmessageqt/bitmessageui.py" line="552"/>
         <source>Load from Address book</source>
-        <translation>アドレス帳から選択する</translation>
+        <translation>アドレス帳</translation>
     </message>
     <message>
         <location filename="../bitmessageqt/bitmessageui.py" line="553"/>
@@ -877,42 +877,42 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../bitmessageqt/bitmessageui.py" line="619"/>
         <source>Stream #</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../bitmessageqt/bitmessageui.py" line="621"/>
         <source>Connections</source>
-        <translation>接続数</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../bitmessageqt/bitmessageui.py" line="622"/>
         <source>Total connections: 0</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../bitmessageqt/bitmessageui.py" line="623"/>
         <source>Since startup at asdf:</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../bitmessageqt/bitmessageui.py" line="624"/>
         <source>Processed 0 person-to-person message.</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../bitmessageqt/bitmessageui.py" line="625"/>
         <source>Processed 0 public key.</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../bitmessageqt/bitmessageui.py" line="626"/>
         <source>Processed 0 broadcast.</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../bitmessageqt/bitmessageui.py" line="627"/>
         <source>Inventory lookups per second: 0</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../bitmessageqt/bitmessageui.py" line="628"/>
@@ -922,7 +922,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../bitmessageqt/bitmessageui.py" line="629"/>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>ファイル</translation>
     </message>
     <message>
         <location filename="../bitmessageqt/bitmessageui.py" line="639"/>
@@ -947,12 +947,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../bitmessageqt/bitmessageui.py" line="635"/>
         <source>Ctrl+Q</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../bitmessageqt/bitmessageui.py" line="637"/>
         <source>F1</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../bitmessageqt/bitmessageui.py" line="638"/>
@@ -967,12 +967,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../bitmessageqt/bitmessageui.py" line="641"/>
         <source>Delete all trashed messages</source>
-        <translation type="unfinished"></translation>
+        <translation>ゴミ箱を空にする</translation>
     </message>
     <message>
         <location filename="../bitmessageqt/bitmessageui.py" line="642"/>
         <source>Join / Create chan</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -1031,7 +1031,7 @@ The &apos;Random Number&apos; option is selected by default but deterministic ad
     <message>
         <location filename="../bitmessageqt/newaddressdialog.py" line="184"/>
         <source>Number of addresses to make based on your passphrase:</source>
-        <translation type="unfinished"></translation>
+        <translation>パスフレーズにもとづいて算出されたアドレス番号:</translation>
     </message>
     <message>
         <location filename="../bitmessageqt/newaddressdialog.py" line="185"/>
@@ -1328,7 +1328,7 @@ The &apos;Random Number&apos; option is selected by default but deterministic ad
     <message>
         <location filename="../bitmessageqt/settings.py" line="386"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>設定</translation>
     </message>
     <message>
         <location filename="../bitmessageqt/settings.py" line="387"/>
@@ -1338,7 +1338,7 @@ The &apos;Random Number&apos; option is selected by default but deterministic ad
     <message>
         <location filename="../bitmessageqt/settings.py" line="388"/>
         <source>Start Bitmessage in the tray (don&apos;t show main window)</source>
-        <translation type="unfinished"></translation>
+        <translation>起動時にメインウィンドウではなく受信トレイを表示する</translation>
     </message>
     <message>
         <location filename="../bitmessageqt/settings.py" line="389"/>
@@ -1348,7 +1348,7 @@ The &apos;Random Number&apos; option is selected by default but deterministic ad
     <message>
         <location filename="../bitmessageqt/settings.py" line="390"/>
         <source>Show notification when message received</source>
-        <translation type="unfinished"></translation>
+        <translation>メッセージの受信を通知する</translation>
     </message>
     <message>
         <location filename="../bitmessageqt/settings.py" line="391"/>
@@ -1363,12 +1363,12 @@ The &apos;Random Number&apos; option is selected by default but deterministic ad
     <message>
         <location filename="../bitmessageqt/settings.py" line="393"/>
         <source>Willingly include unencrypted destination address when sending to a mobile device</source>
-        <translation type="unfinished"></translation>
+        <translation>モバイルデバイスへ送信するときは暗号化されないアドレスを優先的に利用する</translation>
     </message>
     <message>
         <location filename="../bitmessageqt/settings.py" line="394"/>
         <source>Use Identicons</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../bitmessageqt/settings.py" line="395"/>
@@ -1445,7 +1445,7 @@ The &apos;Random Number&apos; option is selected by default but deterministic ad
         <location filename="../bitmessageqt/settings.py" line="407"/>
         <source>Other (set in keys.dat)</source>
         <comment>other</comment>
-        <translation>その他（keys.datで定義）</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../bitmessageqt/settings.py" line="408"/>
@@ -1475,7 +1475,7 @@ The &apos;Random Number&apos; option is selected by default but deterministic ad
     <message>
         <location filename="../bitmessageqt/settings.py" line="413"/>
         <source>Server hostname:</source>
-        <translation type="unfinished"></translation>
+        <translation>サーバー:</translation>
     </message>
     <message>
         <location filename="../bitmessageqt/settings.py" line="435"/>
@@ -1495,7 +1495,7 @@ The &apos;Random Number&apos; option is selected by default but deterministic ad
     <message>
         <location filename="../bitmessageqt/settings.py" line="417"/>
         <source>Pass:</source>
-        <translation>パス:</translation>
+        <translation>パスワード:</translation>
     </message>
     <message>
         <location filename="../bitmessageqt/settings.py" line="418"/>
@@ -1525,37 +1525,37 @@ The &apos;Random Number&apos; option is selected by default but deterministic ad
     <message>
         <location filename="../bitmessageqt/settings.py" line="423"/>
         <source>Total difficulty:</source>
-        <translation>計算の難しさ:</translation>
+        <translation>難度:</translation>
     </message>
     <message>
         <location filename="../bitmessageqt/settings.py" line="424"/>
         <source>The &apos;Total difficulty&apos; affects the absolute amount of work the sender must complete. Doubling this value doubles the amount of work.</source>
-        <translation>計算の難しさは、メッセージを送信するために必要な計算の量に影響します。この値を二倍にすれば送信のため計算量は二倍になります。</translation>
+        <translation>「難度」は、メッセージを送信するために必要な計算の量に影響します。この値を二倍にすれば送信に必要な計算量は二倍になります。</translation>
     </message>
     <message>
         <location filename="../bitmessageqt/settings.py" line="425"/>
         <source>Small message difficulty:</source>
-        <translation>ショートメッセージの送信コスト</translation>
+        <translation>短いメッセージの難度</translation>
     </message>
     <message>
         <location filename="../bitmessageqt/settings.py" line="426"/>
         <source>When someone sends you a message, their computer must first complete some work. The difficulty of this work, by default, is 1. You may raise this default for new addresses you create by changing the values here. Any new addresses you create will require senders to meet the higher difficulty. There is one exception: if you add a friend or acquaintance to your address book, Bitmessage will automatically notify them when you next send a message that they need only complete the minimum amount of work: difficulty 1. </source>
-        <translation>メッセージを送信するためには、いくらかの計算を行う必要があります。デフォルトではその計算の難しさは1に設定されています。ここでは新しく作成されたアドレスに対する計算の難しさを変更することができます。新規作成されたアドレスは送信するのにより難しい計算を課すことができます。例外として、あなた自身がアドレス帳に登録したフレンドや知人からのメッセージは自動的にBitMessageが検出して計算の難しさを最小の1に設定します。</translation>
+        <translation>メッセージを送信するためには、送り手がいくらかの計算を行う必要があります。デフォルトではその計算の難度は1に設定されています。計算の難度とは送信のコストだと考えることができます。ここではあなたが新しく作成したアドレスの難度を変更することができます。新規作成したアドレスの難度をより高く設定することが可能です。例外として、あなた自身がアドレス帳に登録したフレンドや知人からのメッセージは自動的にBitMessageが検出して難度を最小の1に設定します。</translation>
     </message>
     <message>
         <location filename="../bitmessageqt/settings.py" line="427"/>
         <source>The &apos;Small message difficulty&apos; mostly only affects the difficulty of sending small messages. Doubling this value makes it almost twice as difficult to send a small message but doesn&apos;t really affect large messages.</source>
-        <translation type="unfinished"></translation>
+        <translation>「短いメッセージの難度」は短いメッセージを送るときに送り手が行う計算の難度をに影響します。この値を二倍にすれば短いメッセージの送信に必要な計算量は二倍になります。ただし長文のメッセージの送信には影響しません。</translation>
     </message>
     <message>
         <location filename="../bitmessageqt/settings.py" line="428"/>
         <source>Demanded difficulty</source>
-        <translation>要求する送信コスト</translation>
+        <translation>要求する難度</translation>
     </message>
     <message>
         <location filename="../bitmessageqt/settings.py" line="429"/>
         <source>Here you may set the maximum amount of work you are willing to do to send a message to another person. Setting these values to 0 means that any value is acceptable.</source>
-        <translation type="unfinished"></translation>
+        <translation>メッセージを送信するためにはいくらか計算をする必要があります。ここではその計算において許容する最大難度を設定します。値を0に設定した場合は、任意の値を許容します。</translation>
     </message>
     <message>
         <location filename="../bitmessageqt/settings.py" line="430"/>
@@ -1575,7 +1575,7 @@ The &apos;Random Number&apos; option is selected by default but deterministic ad
     <message>
         <location filename="../bitmessageqt/settings.py" line="433"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Bitmessage can utilize a different Bitcoin-based program called Namecoin to make addresses human-friendly. For example, instead of having to tell your friend your long Bitmessage address, you can simply tell him to send a message to &lt;span style=&quot; font-style:italic;&quot;&gt;test. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;(Getting your own Bitmessage address into Namecoin is still rather difficult).&lt;/p&gt;&lt;p&gt;Bitmessage can use either namecoind directly or a running nmcontrol instance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../bitmessageqt/settings.py" line="434"/>
@@ -1615,17 +1615,17 @@ The &apos;Random Number&apos; option is selected by default but deterministic ad
     <message>
         <location filename="../bitmessageqt/settings.py" line="443"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;By default, if you send a message to someone and he is offline for more than two days, Bitmessage will send the message again after an additional two days. This will be continued with exponential backoff forever; messages will be resent after 5, 10, 20 days ect. until the receiver acknowledges them. Here you may change that behavior by having Bitmessage give up after a certain number of days or months.&lt;/p&gt;&lt;p&gt;Leave these input fields blank for the default behavior. &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;メッセージを送信しても相手がオフラインであればそのメッセージは届きません。デフォルトでは、相手が受信せずに2日間が経過するとBitMessageは自動的にメッセージを再送します。これは受信確認通知を受け取るまで繰り返されます。ただし再送までの期間は5日、10日、20日、といった具合に指数関数的に増大します。ここでは、BitMessageが再送を停止する期間を設定できます。&lt;/p&gt;&lt;p&gt;設定を空白のままにしておくとデフォルトの挙動をします。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../bitmessageqt/settings.py" line="444"/>
         <source>Give up after</source>
-        <translation type="unfinished"></translation>
+        <translation>次の期間を過ぎると再送を停止</translation>
     </message>
     <message>
         <location filename="../bitmessageqt/settings.py" line="445"/>
         <source>and</source>
-        <translation type="unfinished"></translation>
+        <translation>と</translation>
     </message>
     <message>
         <location filename="../bitmessageqt/settings.py" line="446"/>
