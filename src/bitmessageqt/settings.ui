@@ -176,6 +176,11 @@
             </item>
             <item>
              <property name="text">
+              <string comment="ja">日本語</string>
+             </property>
+            </item>
+            <item>
+             <property name="text">
               <string comment="other">Other (set in keys.dat)</string>
              </property>
             </item>
